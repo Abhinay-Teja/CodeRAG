@@ -1,6 +1,6 @@
 # 🚀 CodeRAG: A Lightweight Retrieval-Augmented Code Intelligence System
 
-A synthetic-data–driven RAG pipeline for code understanding and Text-to-SQL generation.
+A synthetic-data driven RAG pipeline for code understanding and Text-to-SQL generation.
 
 CodeRAG is a compact but fully functional Retrieval-Augmented Generation (RAG) system built entirely on synthetic data created by us. Inspired by the paper “Towards a Generalist Code Embedding Model Based on Massive Data Synthesis”, this project explores whether meaningful code embeddings and retrieval capabilities can be learned without large datasets or GPUs.
 
