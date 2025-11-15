@@ -66,7 +66,7 @@ We built a modular, seven-stage RAG pipeline, detailed below:
 ## ✅ Evaluation & Status
 
 * **Metric:** Exact Match (EM) and Execution Accuracy (EX) on a complex Text-to-SQL evaluation dataset.
-* **Status:** All pipeline components are **functionally validated**. Final quantitative comparative evaluation is running on CPU architecture.
+* **Status:** All pipeline components are **functionally validated**.
 
 ---
 
